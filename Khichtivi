@@ -751,7 +751,7 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/01.m3u8
 https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/01.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://vod-cdn02.danet.vn/live/quochoi/playlist.m3u8
+htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
