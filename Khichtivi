@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/Lịch-phat-song-khichtivi-epg-xml-gz,http://epg.ra1n.lol/jp.xml,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="https://s.id/khichtivi,https://bit.ly/khichtivi,https://bit.ly/Khichtivi247,https://xem.li/25khichtivi,https://g2.by/ThaoTiVi"
+on#EXTM3U url-tvg="https://bit.ly/Lịch-phat-song-khichtivi-epg-xml-gz,http://epg.ra1n.lol/jp.xml,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="https://s.id/khichtivi,https://bit.ly/khichtivi,https://bit.ly/Khichtivi247,https://xem.li/25khichtivi,https://g2.by/ThaoTiVi"
 
 
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé
@@ -141,7 +141,7 @@ https://tth.vn/Khích-online:5050-udp-232.84.1.37:8196-k1-index.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/ZSZmfFK/khichtv-ksp2-vip.jpg", K+SPORT2 VIP FHD
 https://tth.vn/Khích-online-5050-udp-232.84.3.42:11800-k2-index.m3u8
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
-http://nh0zsieuquay.giize.com:9999/rtp/
+https://7pal.short.gy/nowhkp1
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://7pal.short.gy/nowhkp2
