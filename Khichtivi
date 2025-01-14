@@ -176,7 +176,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=181
+2.13.3
+http://509942876.r.vtvcdn.com/onplus/VAN_HOA/m20_index.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/qRh9RL1/List-iptv-khich-TV-2024.png",list iptv khích TiVi
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
 https://dl.dropboxusercontent.com/s/hga31wuhzsm8k6o02fnqx/VIDEO_DOWNLOAD_1700195331869_1700204080686.mp4?rlkey=gkxr76dvimy3ivk2r406burnt&dl=0
