@@ -1213,7 +1213,7 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.101:10648
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.19:8088
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
