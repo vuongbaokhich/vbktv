@@ -1702,7 +1702,7 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏KhichTivi| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/qepbcwxy_microsoftteams-image7b2588fb851ee306d3ab77caa6e19d79_296_168.webp", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?=khichtivi
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHD
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.139:10702
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.61:11686
 #http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘 FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
