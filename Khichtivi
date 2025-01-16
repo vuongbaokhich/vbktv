@@ -135,9 +135,8 @@ http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.96:8550
 #https://tth.vn/Khich-online-klife-fhd.m3u8
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.97:8556
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/WpHgVMR/khichtv-ksp1-vip.jpg", K+SPORT1 VIP FHD
-https://tth.vn/Khích-online:5050-udp-232.84.1.37:8196-k1-index.m3u8
-#EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/ZSZmfFK/khichtv-ksp2-vip.jpg", K+SPORT2 VIP FHD
-https://tth.vn/Khích-online-5050-udp-232.84.3.42:11800-k2-index.m3u8
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=10948b12272cff76e2b83fb4e491ce1c&txTime=6789d47a
+#EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/ZSZmfFK/khichtv-ksp2-vip.jpg", K+SPORT2 VIP FHDhttps://pull.niues.live/live/stream-427856_lhd.m3u8?auth_key=1737068074-0-0-3a716f04209656c59093d6773592b9a5
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
 https://7pal.short.gy/nowhkp1
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2 FHD
