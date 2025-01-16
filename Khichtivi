@@ -122,8 +122,7 @@ https://live5.k8v4dh4.app/live/73081701.m3u8?txSecret=75c2b8dbd8098d46ab41c2be4a
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live5.k8v4dh4.app/live/43612277.m3u8?txSecret=4a681923e089449adc035f2c883222fc&txTime=1941D445711
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV DB" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá  FHD 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://tth.vn/Khichtivi-live5-bóng-đá.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://live5.k8v4dh4.app/live/41943555.m3u8?txSecret=30fe8de7f0c10b332ca0224c6657212b&txTime=1950B72BD75
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE FHD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
@@ -532,8 +531,7 @@ https://1.org.vn/Khichtv-vtvcab1-hd-175-index-m3u8
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/540x300x1713251495/cmc_new/img.live_channel/0/0/0/0/310.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",ON KHÍCH
 http://109.61.81.45:43756/713/video.m3u8?token=QUWJEnwmm2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-# không co link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36https://live5.k8v4dh4.app/live/41943555.m3u8?txSecret=30fe8de7f0c10b332ca0224c6657212b&txTime=1950B72BD75
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/jwnhipn3_vie-dramasae064da43e53e1159713dee84d357599_296_168.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB 19 FHD
 https://1.org.vn/Khichtv-vtvcab19-index-m3u8
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/s0vy2pmh_vtvcab20a434829b87edb836c91a9f364b5d56d8_296_168.webp",VTVCAB20 - V FAMILY
@@ -644,8 +642,7 @@ https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://live2onsport.vtvcab.vn/onplus/SCTV15HD/manifest.mpd
-#https://tth.vn/Khichtivi-live-80-sctv15-fhd-index.m3u8
+https://live5.k8v4dh4.app/live/78905744.m3u8?txSecret=2bc922806b5ee84b0a21610e82957412&txTime=1950B72B502
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/7btSjNJ/SCTV16-PNNDS-logo-khichtivi.webp", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
