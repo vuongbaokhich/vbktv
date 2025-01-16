@@ -1253,7 +1253,8 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://37.27.111.214:8080/live/30/hls.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.103:10840
+#http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
