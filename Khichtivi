@@ -80,7 +80,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?khichtv|Ref
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/16/01/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/17/01/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://bit.ly/Khichtivi-live-80-sctv15-hd?key/index.m3u8|Referer=http://sctvonline.vn/
@@ -435,7 +435,7 @@ http://s4live.tv1asia.com:21585/vtvcab2/tracks-v1a1/mono.m3u8
 https://1.org.vn/Khichtv-vtvcab1-hd-175-index-m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="VTVCab" ,ON SPORTS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/Khich-live-vtvcab3-HD.m3u8
+http://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m3012_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/sCPbVn5/On-Sports-vbktv.jpg" group-title="VTVCab" ,ON SPORTS HD 
 https://tth.vn/vtvcabZbk-vtvcab3-hd-you.m3u8
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/sty4e4sg_vtvcab44114b17a056da5e07f7d8913b5639105_296_168.webp" ,ON MOVIES
@@ -460,7 +460,7 @@ https://tth.vn/vtvcab-zbk-vtvcab6.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://tth.vn/vtvcab-zbk-on-vtvcab6.m3u8
+http://509942876.r.vtvcdn.com/onplus/HAY_TV/m3012_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/zpx4hq02_vtvcab7eec7b524f840cba47a6266583660a9ec_296_168.webp" ,ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -502,7 +502,7 @@ https://tth.vn/Khíchtv-cab16-fhd.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://tth.vn/VTVCAB-zbk-vtvcab16-hd-index.m3u8
+http://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m3012_index.m3u8
 #http://p1.cvtv.xyz/bun?token=live
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -518,9 +518,7 @@ https://tth.vn/Khich-live-vtvcab18-hd-khichtv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=170
-https://tth.vn/Khichtivi-live-vtvcab18-index.m3u8
-#https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/manifest.mpd
+#http://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m3012_index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/jJM1xWD/khichtv-online-fpt-play-2024.jpg", FPT play HD khích online
 https://live.fptplay53.net/channel/thethao109/playlist_25f_1080p25f2.m3u8
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
