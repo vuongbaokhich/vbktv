@@ -15,7 +15,7 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="2️⃣0️⃣2️⃣5️⃣Gia Hưng TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",❤️VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/
-https://live.fptplay53.net//fnxch2/vtv2hd_abr.smil/chunklist_b3000000.m3u8.m3u8
+https://263.org.vn/Khichtv-mytv-vtv2-hd-index-m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_640_360.png",❤️VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -785,7 +785,8 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 https://d.org.vn/Khich-TiVi-online-an-giangtv-index-m3u8
 #EXTINF: -1 tvg-id = "angiang" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/a9/An_Giang.png",An Giang
 #EXTVLCOPT: http-user-agent = khíchTivi
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/
+/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/1sgvDV5/tay-nam-bo-logo-khichtivi.jpg",TÂY NAM BỘ HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user- agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
@@ -1390,7 +1391,8 @@ http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="starch1" group-title="❤|HBO" tvg-logo="https://i.ibb.co/cx0DcJq/kh-ch-TV-logo-HBO.jpg", HBO FHD🇨🇳
 http://202.150.172.3:5000/udp/239.1.1.95:8544
-#EXTINF:-1 tvg-id="starch1" group-title="❤|HBO" tvg-logo="https://i.ibb.co/f4TSctD/Khichtv-hbo-hd.jpg", HBO HD🇨🇳https://263.org.vn/Khích-online-hbo-hd-index-m3u8
+#EXTINF:-1 tvg-id="starch1" group-title="❤|HBO" tvg-logo="https://i.ibb.co/f4TSctD/Khichtv-hbo-hd.jpg", HBO HD🇨🇳
+https://263.org.vn/Khích-online-hbo-hd-index-m3u8
 #EXTINF:-1 tvg-id="starch2" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS HD🇨🇳
 https://1.org.vn/Khích-online-HBO-HITS-china-index-m3u8
 #EXTINF:-1 tvg-id="starch3" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
