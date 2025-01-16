@@ -451,7 +451,7 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/wtvyhnuq_vtvcab6-on-sports-thumbfc228c44db49351f512be995a0770c3b_296_168.webp",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.75:11602
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.220:9294
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/E3Tnlkk.jpg",ON SPORTS + online
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
