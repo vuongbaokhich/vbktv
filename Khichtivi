@@ -160,7 +160,7 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?pr
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/Khichtv-live-k-cine-hd-m3u8
+http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.33:8172
