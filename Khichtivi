@@ -72,7 +72,7 @@ http://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8
 http://509942876.r.vtvcdn.com/onplus/HAY_TV/m3012_index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣5️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/Khíchtivi-vip.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.27:11890
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣5️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -641,7 +641,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/index.m3u8?khichtv|Referer=
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.15:11962
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.22:11920
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/7btSjNJ/SCTV16-PNNDS-logo-khichtivi.webp", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -649,7 +649,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?khichtv|Referer=
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mb0WpzV/SCTV17-SSport-logo-khichtv.webp", SCTV17 HD Vip
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.20:11932
