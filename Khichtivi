@@ -146,7 +146,6 @@ https://7pal.short.gy/nowhkp2
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonline.vn/
 
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
-
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
@@ -155,7 +154,7 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?pro
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.38:8202
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/651475300?profile=pass
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://125hvt.ddns.net:21585/kcine/index.m3u8
@@ -168,7 +167,7 @@ http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.43:11794
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
