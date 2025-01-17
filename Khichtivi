@@ -190,7 +190,7 @@ https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://stream1.freetv.fun/vtc1-2.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/su3ew91o_vtc-1b97406a37563317572e3a0d867081ffd_296_168.webp" group-title="VTC -Khích📺",VTC1
-https://tth.vn/Khích-TiVi-live.8080-vtc1-playlist.m3u8|Referer=http://sctvonline.vn/
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.30:8154|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtc2" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/koc7qspx_vtc2_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
 https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist_b1800000.m3u8
@@ -214,7 +214,7 @@ https://live.fptplay53.net/fnxhd2/vtc6_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://oipf0znpmnliv.vcdn.cloud/hls/todaytv/index.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.213:9252
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
