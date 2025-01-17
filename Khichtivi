@@ -1246,7 +1246,7 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://streamer1.nexgen.bz/AXN/index.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1254,7 +1254,7 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://170.254.18.106/HBO_MUNDI/index.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.64:11668
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1427,7 +1427,7 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
-
+http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD 🇱🇷
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -2003,7 +2003,7 @@ https://stream.vovmedia.vn/vov3
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi FM" group-title = "khichTivi 📻" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh-fm-95-6.png" , 📻 khich TiVi VOH FM 2
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh.png" ,📻 khich tivi VOH 3
+#EXTINF: -1 tvg-id = "khichTiVi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh.png" ,📻 khich tivi VOH 3
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
 https://code.vthanhtivi.pw/getlink/radio/mixbox/playlist.m3u8
