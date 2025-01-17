@@ -641,7 +641,7 @@ https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://live5.k8v4dh4.app/live/78905744.m3u8?txSecret=2bc922806b5ee84b0a21610e82957412&txTime=1950B72B502
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.22:11920
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/7btSjNJ/SCTV16-PNNDS-logo-khichtivi.webp", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
