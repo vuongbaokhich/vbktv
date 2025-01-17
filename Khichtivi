@@ -1299,22 +1299,21 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?khichtv|Referer=http:
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "boxmovie1" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/vkVLJwz/images-1.jpg", Box Movie1 HD👌khíchTV
-https://tth.vn/Khích-online-Box-Movie1-playlist.m3u8
+https://ott1.sgchill.io.vn/vstv521/xemden29012025/159/index.m3u8
 #EXTINF: -1 tvg-id = "inthebox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/DV1TpCb/images.png", In The Box👌khíchTV
 #EXTVLCOPT:http-user-agent=Gia Hưng23
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Gia Hưng23
-https://tth.vn/Khích-online-In-The-Box-Channel-playlist.m3u8
+https://ott1.sgchill.io.vn/vstv521/xemden29012025/235/index.m3u8
 #EXTINF: -1 tvg-id = "boxhollywood" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", Hollywood Classics👌khíchTV
-https://tth.vn/Khích-online-Hollywood-Classics-HD-ndex.m3u8
+https://ott1.sgchill.io.vn/vstv521/xemden29012025/160/index.m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/BKMsB5N/images.jpg", Box Hits👌khíchTV
-https://tth.vn/Khích-online-Box-Hits-HD.m3u8
+https://ott1.sgchill.io.vn/vstv521/xemden29012025/239/index.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTINF:-1 tvg-id="musicbox" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Music Box HD 👌khíchTV
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://tth.vn/Khích-online-Music-Box-HD.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Happykids HD 👌khíchTV
-https://tth.vn/Khích-online-Happy-Kids-HD-playlist.m3u8
+https://ott1.sgchill.io.vn/vstv521/xemden29012025/289/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Happykids HD 👌khíchTVhttps://ott1.sgchill.io.vn/vstv521/xemden29012025/212/index.m3u8
 #EXTINF:-1 tvg-id="boxhtis" group-title="🎞️|IN The Box" tvg-logo="https://i.ibb.co/BKMsB5N/images.jpg" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/BKMsB5N/images.jpg",Box Hits
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://spstr.abntv.live/hls/psstream.m3u8
