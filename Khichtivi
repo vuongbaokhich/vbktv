@@ -676,7 +676,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https:/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-https://1.org.vn/Khichtv-online-sctv22-HD-index-m3u8|Referer=http://sctvonline.vn/
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.15:11962
 #EXTINF:-1 tvg-logo="https://img.upanh.tv/2024/10/24/kmc_20241023_225855.png" tvg-id="vtv1hd",TROAMI FHD
 
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/B67KfWW/SCTV-PTP-logo-khichtv.webp", SCTV HD Phim Tổng Hợp
