@@ -57,7 +57,7 @@ http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/d2JyktG/VTV12-SD-Khich-TV.png" ,❤VTV12|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.trt.com.vn/TRT-Online/playlist.m3u8
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
