@@ -200,7 +200,7 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/m8rrki02_tv-bluee75315eb0043c1655dac0c4a7f24a6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://121.238.250.124:7766/rtp/232.84.3.244:11386
+http://58.209.41.117:4022/rtp/239.49.9.32:6000
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/69_ecbdd665.jpg?width=384&version=9&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
