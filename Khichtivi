@@ -218,13 +218,13 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 https://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-
+http://13.251.121.250:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+http://13.251.121.250:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/y19zhvhx_vtc-1028537230304be426238d420dbf890d77_296_168.webp", VTC10 FHD
 #EXTVLCOPT:http-user-agent="khichrTV"
-
+https://tvpull.careryun.com/tv/cctv10.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vtc10.png", VTC10 FHD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
@@ -240,12 +240,12 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-
+https://tvpull.careryun.com/tv/cctv14.m3u8
 #EXTINF:-1 tvg-id="vtc15hd" group-title="khíchTiVi|REALMADRID" tvg-logo="https://i.ibb.co/QMh5t52/Realmadrid-TV.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc15-hd/dvr-${start}-${offset}.m3u8",Realmadrid-TV HD
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-
+http://13.251.121.250:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-id="vtc17hd" group-title="KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offset}.m3u8",MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="💙bóng đá⚽| VTC" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
