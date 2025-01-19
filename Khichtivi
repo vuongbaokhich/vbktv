@@ -186,50 +186,50 @@ https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/C7HY9x1/khichtivi-logo-vtc1-hd.jpg" group-title="VTC -Khích📺",VTC1 FHD
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.34:11848
+
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/su3ew91o_vtc-1b97406a37563317572e3a0d867081ffd_296_168.webp" group-title="VTC -Khích📺",VTC1
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.18:11944
+
 #EXTINF:0 tvg-id="vtc2" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/koc7qspx_vtc2_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.33:11854
+
 #EXTINF:0tvg-id="vtc3hd"group-title="VTC-KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/bnd5bu2b_vtc-31e15059012d313a4dac8254d03f3a83f_296_168.webp" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.32:11860
+
 #EXTINF:0 tvg-id="vtc4hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/0agsfxm9_yeah1-family89c8f12a26fd8f5edaa414ff48d2dd0c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.31:11866
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/m8rrki02_tv-bluee75315eb0043c1655dac0c4a7f24a6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.19:11938
+
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/69_ecbdd665.jpg?width=384&version=9&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.30:11872
+
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.29:11878
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 FHD  - todayTV
 #EXTVLCOPT:http-user-agent="khichTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.29:11878
+
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.14:11968
+
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.28:11884
+
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.27:11890
+
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.23:11914
+
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/y19zhvhx_vtc-1028537230304be426238d420dbf890d77_296_168.webp", VTC10 FHD
 #EXTVLCOPT:http-user-agent="khichrTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.21:11926
+
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vtc10.png", VTC10 FHD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.26:11896
+
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://bom.so/khichtv-vtc12-m3u8
@@ -240,12 +240,12 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.16:11956
+
 #EXTINF:-1 tvg-id="vtc15hd" group-title="khíchTiVi|REALMADRID" tvg-logo="https://i.ibb.co/QMh5t52/Realmadrid-TV.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc15-hd/dvr-${start}-${offset}.m3u8",Realmadrid-TV HD
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.25:11902
+
 #EXTINF:-1 tvg-id="vtc17hd" group-title="KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offset}.m3u8",MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="💙bóng đá⚽| VTC" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
