@@ -191,7 +191,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:0 tvg-id="vtc2" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/koc7qspx_vtc2_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0tvg-id="vtc3hd"group-title="VTC-KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/bnd5bu2b_vtc-31e15059012d313a4dac8254d03f3a83f_296_168.webp" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://170.254.18.106/HBO_PLUS/index.m3u8
